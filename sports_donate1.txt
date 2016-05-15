@@ -1,0 +1,13 @@
+<DOCTYPE html>
+<html>
+<ul>
+  <li>Baseball</li>
+    <ol>For ages 8-11. Join and learn basics of catching and batting.</ol><br>
+  <li>Soccer</li>
+    <ol>For ages 8-11. Join and learn basics of kicking and footwork.</ol><br>
+  <li>Football</li>
+    <ol>For ages 8-11. Join and learn basics of offense and defense.</ol><br>
+  <li>Track and Field</li>
+    <ol>For ages 8-11. Join and discover what track and field event intersts you.</ol><br>
+</ul>
+</html>
